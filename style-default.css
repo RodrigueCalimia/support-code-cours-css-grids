@@ -2,23 +2,10 @@
     background-color: aquamarine;
     height: auto;
     padding: 10px;
-    width: 50%;
+    width: 25%;
 }
-.element{
-    width: 200px;
-    height: 100px;
-}
-
-.color-el1{
-    background-color: blanchedalmond;
-    margin: auto;
-}
-.color-el2{
-    background-color:blueviolet;
-    margin: auto;
-}
-
-.color-el3{
-    background-color: blue;
-    margin: auto;
+.box{
+    height: 150px;
+    border-radius: 10px;
+    border: 3px solid black;
 }
